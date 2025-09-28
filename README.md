@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Abdul Hadi Afghan! 👋
 
-<!--
-**Abdulhadiaf/Abdulhadiaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Web Developer | Master’s in Software Engineering**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a passionate full stack developer with a Master's degree in Software Engineering. I love building modern, scalable web applications and experimenting with the latest tech. When I'm not coding, you'll probably find me enjoying a good game of cricket!
+
+---
+
+## 💡 Skills & Expertise
+
+- **Languages & Frameworks:** PHP, Laravel, Python, Django, React.js, Next.js, Vue.js
+- **Styling:** Tailwind CSS, Bootstrap
+- **DevOps:** CI/CD, Docker
+- **Development:** End-to-end web app creation, from backend to stunning frontends
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/abdul-hadi-af/)
+- [X (Twitter)](https://x.com/AbdulhadiAfghan)
+- [Facebook](https://www.facebook.com/abdulhadi.af)
+- [Instagram](https://www.instagram.com/abdulhadi.afghan/)
+- [Personal Website](https://hadiwebdev.com/)
+
+---
+
+## 🏏 Fun Fact
+
+I’m a huge cricket lover—ask me about my favorite teams or matches!
+
+---
+
+<!-- If you enjoyed my work or want to collaborate, feel free to reach out! -->
