@@ -34,4 +34,6 @@ I’m a huge cricket lover—ask me about my favorite teams or matches!
 
 ---
 
-<!-- If you enjoyed my work or want to collaborate, feel free to reach out! -->
+## 📊 GitHub Stats
+![Abdulhadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulhadiaf&show_icons=true&theme=radical)
+
