@@ -14,6 +14,8 @@ I'm a passionate full stack developer with a Master's degree in Software Enginee
 - **Languages & Frameworks:** PHP, Laravel, Node.js, Python, Django, React.js, Next.js, Vue.js
 - **Styling:** Tailwind CSS, Bootstrap
 - **DevOps:** CI/CD, Docker
+- **API:** RESTful APIs
+- **Databases:** MySql, PostgreSql, Firebase Realtime and Firestore, MongoDB
 - **Development:** End-to-end web app creation, from backend to stunning frontends
 
 ---
