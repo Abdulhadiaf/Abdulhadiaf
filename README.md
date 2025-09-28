@@ -5,13 +5,13 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate full stack developer with a Master's degree in Software Engineering and with over 6 years of hands-on experience building modern, scalable, and high-performance web applications. My expertise spans both backend and frontend technologies, including PHP, Laravel, Vue.js, React.js, Angular, and modern UI frameworks like Bootstrap and Tailwind CSS.
+I'm a passionate full stack developer with a Master's degree in Software Engineering and with over 6 years of hands-on experience building modern, scalable, and high-performance web applications. My expertise spans both backend and frontend technologies, including PHP, Laravel, Node.js, Python Vue.js, React.js, Angular, and modern UI frameworks like Bootstrap and Tailwind CSS.
 
 ---
 
 ## 💡 Skills & Expertise
 
-- **Languages & Frameworks:** PHP, Laravel, Python, Django, React.js, Next.js, Vue.js
+- **Languages & Frameworks:** PHP, Laravel, Node.js, Python, Django, React.js, Next.js, Vue.js
 - **Styling:** Tailwind CSS, Bootstrap
 - **DevOps:** CI/CD, Docker
 - **Development:** End-to-end web app creation, from backend to stunning frontends
