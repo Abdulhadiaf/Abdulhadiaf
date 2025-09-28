@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate full stack developer with a Master's degree in Software Engineering. I love building modern, scalable web applications and experimenting with the latest tech. When I'm not coding, you'll probably find me enjoying a good game of cricket!
+I'm a passionate full stack developer with a Master's degree in Software Engineering and with over 6 years of hands-on experience building modern, scalable, and high-performance web applications. My expertise spans both backend and frontend technologies, including PHP, Laravel, Vue.js, React.js, Angular, and modern UI frameworks like Bootstrap and Tailwind CSS.
 
 ---
 
