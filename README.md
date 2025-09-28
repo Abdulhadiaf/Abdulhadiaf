@@ -47,7 +47,4 @@ I’m a huge cricket lover—ask me about my favorite teams or matches!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhadiaf&layout=compact&theme=monokai&show_icons=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulhadiaf&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
 
