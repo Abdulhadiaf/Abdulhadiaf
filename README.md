@@ -36,12 +36,18 @@ I’m a huge cricket lover—ask me about my favorite teams or matches!
 
 ## 📊 GitHub Analytics
 <p align="center">
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulhadiaf&theme=monokai)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulhadiaf&theme=monokai" alt="Profile Summary" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abdulhadiaf&theme=monokai-metallian&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdulhadiaf&theme=monokai-metallian&hide_border=false" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhadiaf&layout=compact&theme=monokai&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhadiaf&layout=compact&theme=monokai&show_icons=true" alt="Top Languages" />
+</p>
 
-![Abdulhadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulhadiaf&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulhadiaf&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
