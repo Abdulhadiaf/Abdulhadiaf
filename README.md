@@ -34,10 +34,12 @@ I’m a huge cricket lover—ask me about my favorite teams or matches!
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulhadiaf&theme=monokai)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Abdulhadiaf&theme=monokai-metallian&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhadiaf&layout=compact&theme=monokai&show_icons=true)
 
 ![Abdulhadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulhadiaf&show_icons=true&theme=radical)
 
